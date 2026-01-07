@@ -1,6 +1,6 @@
 [![Awesome Logo](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![TechrXiv](https://img.shields.io/badge/T-TechRxiv-blue)](https://www.techrxiv.org) [![Visitors](https://komarev.com/ghpvc/?username=VWMSurvey&label=Welcome!%20&color=orange)]()
 
-[![arXiv](https://img.shields.io/badge/arXiv-25XX.XXXXX-b31b1b?logo=arxiv)](https://arxiv.org/abs/25XX.XXXXX) [![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-yellow)](https://huggingface.co/papers/)
+[![arXiv](https://img.shields.io/badge/arXiv-26XX.XXXXX-b31b1b?logo=arxiv)](https://arxiv.org/abs/25XX.XXXXX) [![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-yellow)](https://huggingface.co/papers/)
 
 # :sunglasses: Awesome Vision World Models
 
@@ -133,6 +133,8 @@ We provide an extensive review of the evaluation landscape, cataloging metrics a
 | Design  | Paper | Link | 
 |:-:|:-|:-:|
 ||
+| `AstraNav-World` | AstraNav-World: World Model for Foresight Control and Consistency | [![arXiv](https://img.shields.io/badge/arXiv-2512.21714-b31b1b?logo=arxiv)](https://arxiv.org/abs/2512.21714)  [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://astra-amap.github.io/AstraNav-World.github.io/) [![GitHub](https://img.shields.io/github/stars/amap-cvlab/AstraNav-World)](https://github.com/amap-cvlab/AstraNav-World)|
+| `RynnVLA-002` | RynnVLA-002: A Unified Vision-Language-Action and World Model | [![arXiv](https://img.shields.io/badge/arXiv-2511.17502-b31b1b?logo=arxiv)](https://arxiv.org/abs/2511.17502)  [![GitHub](https://img.shields.io/github/stars/alibaba-damo-academy/RynnVLA-002)](https://github.com/alibaba-damo-academy/RynnVLA-002)|
 | `SWM` | Semantic World Models | [![arXiv](https://img.shields.io/badge/arXiv-2510.19818-b31b1b?logo=arxiv)](https://arxiv.org/abs/2510.19818)  [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://weirdlabuw.github.io/swm/)|
 | `UniWM` | Unified World Models: Memory-Augmented Planning and Foresight for Visual Navigation | [![arXiv](https://img.shields.io/badge/arXiv-2510.08713-b31b1b?logo=arxiv)](https://arxiv.org/abs/2510.08713)   [![GitHub](https://img.shields.io/github/stars/F1y1113/UniWM)](https://github.com/F1y1113/UniWM) |
 | `F1` | F1: A Vision-Language-Action Model Bridging Understanding and Generation to Actions | [![arXiv](https://img.shields.io/badge/arXiv-2509.06951-b31b1b?logo=arxiv)](https://arxiv.org/abs/2509.06951) [![GitHub](https://img.shields.io/github/stars/InternRobotics/F1-VLA)](https://github.com/InternRobotics/F1-VLA) |
@@ -162,6 +164,9 @@ We provide an extensive review of the evaluation landscape, cataloging metrics a
 | Design  | Paper | Link | 
 |:-:|:-|:-:|
 ||
+| `GrndCtrl`  | GrndCtrl: Grounding World Models via Self-Supervised Reward Alignment |  [![arXiv](https://img.shields.io/badge/arXiv-2512.01952-b31b1b?logo=arxiv)](https://arxiv.org/abs/2512.01952) [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://rlwg-grndctrl.github.io/) |
+| `C^3`  | World Models That Know When They Don’t Know: Controllable Video Generation with Calibrated Uncertainty |  [![arXiv](https://img.shields.io/badge/arXiv-2512.05927-b31b1b?logo=arxiv)](https://arxiv.org/abs/2512.05927) [![GitHub](https://img.shields.io/github/stars/irom-princeton/c-cubed)](https://github.com/irom-princeton/c-cubed) [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://c-cubed-uq.github.io/)|
+| `GAIA-3`  | GAIA-3: Scaling World Models to Power Safety and Evaluation |  [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://wayve.ai/thinking/gaia-3/) |
 | `WristWorld`  | WristWorld: Generating Wrist-Views via 4D World Models for Robotic Manipulation |  [![arXiv](https://img.shields.io/badge/arXiv-2510.07313-b31b1b?logo=arxiv)](https://arxiv.org/abs/2510.07313) [![GitHub](https://img.shields.io/github/stars/XuWuLingYu/WristWorld)](https://github.com/XuWuLingYu/WristWorld) |
 | `WorldSplat`  | WorldSplat: Gaussian-Centric Feed-Forward 4D Scene Generation for Autonomous Driving |  [![arXiv](https://img.shields.io/badge/arXiv-2509.23402-b31b1b?logo=arxiv)](https://arxiv.org/abs/2509.23402) [![GitHub](https://img.shields.io/github/stars/wm-research/worldsplat)](https://github.com/wm-research/worldsplat) |
 | `WorldForge`  | WorldForge: Unlocking Emergent 3D/4D Generation in Video Diffusion Model via Training-Free Guidance |  [![arXiv](https://img.shields.io/badge/arXiv-2509.15130-b31b1b?logo=arxiv)](https://arxiv.org/abs/2509.15130) [![GitHub](https://img.shields.io/github/stars/Westlake-AGI-Lab/WorldForge)](https://github.com/Westlake-AGI-Lab/WorldForge) |
@@ -224,6 +229,13 @@ We provide an extensive review of the evaluation landscape, cataloging metrics a
 | Design  | Paper | Link | 
 |:-:|:-|:-:|
 ||
+| `Yume1.5`  | Yume1.5: A Text-Controlled Interactive World Generation Model |  [![arXiv](https://img.shields.io/badge/arXiv-2512.22096-b31b1b?logo=arxiv)](https://arxiv.org/abs/2512.22096) [![GitHub](https://img.shields.io/github/stars/stdstu12/YUME)](https://github.com/stdstu12/YUME) [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://stdstu12.github.io/YUME-Project/)|
+| `HY-World 1.5`  | HY-World 1.5: A Systematic Framework for Interactive World Modeling with Real-Time Latency and Geometric Consistency |  [![GitHub](https://img.shields.io/github/stars/Tencent-Hunyuan/HY-WorldPlay)](https://github.com/Tencent-Hunyuan/HY-WorldPlay)|
+| `Astra`  | Astra: General Interactive World Model with Autoregressive Denoising |  [![arXiv](https://img.shields.io/badge/arXiv-2512.08931-b31b1b?logo=arxiv)](https://arxiv.org/abs/2512.08931) [![GitHub](https://img.shields.io/github/stars/EternalEvan/Astra)](https://github.com/EternalEvan/Astra) [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://eternalevan.github.io/Astra-project/)|
+| `RELIC`  | RELIC: Interactive Video World Model with Long-Horizon Memory |  [![arXiv](https://img.shields.io/badge/arXiv-2512.04040-b31b1b?logo=arxiv)](https://arxiv.org/abs/2512.04040) [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://relic-worldmodel.github.io/)|
+| `ANWM`  | Aerial World Model for Long-horizon Visual Generation and Navigation in 3D Space |  [![arXiv](https://img.shields.io/badge/arXiv-2512.21887-b31b1b?logo=arxiv)](https://arxiv.org/abs/2512.21887)|
+| `WorldPack`  | WorldPack: Compressed Memory Improves Spatial Consistency in Video World Modeling |  [![arXiv](https://img.shields.io/badge/arXiv-2512.02473-b31b1b?logo=arxiv)](https://arxiv.org/abs/2512.02473)|
+| `Hunyuan-GameCraft-2`  | Hunyuan-GameCraft-2: Instruction-following Interactive Game World Model |  [![arXiv](https://img.shields.io/badge/arXiv-2511.23429-b31b1b?logo=arxiv)](https://arxiv.org/abs/2511.23429) [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://hunyuan-gamecraft-2.github.io/)|
 | `PAN` | PAN: A World Model for General, Interactable, and Long-Horizon World Simulation | [![arXiv](https://img.shields.io/badge/arXiv-2511.09057-b31b1b?logo=arxiv)](https://arxiv.org/abs/2511.09057) [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://ifm.mbzuai.ac.ae/pan/) |
 | `Emu3.5` | Emu3.5: Native Multimodal Models are World Learners | [![arXiv](https://img.shields.io/badge/arXiv-2510.26583-b31b1b?logo=arxiv)](https://arxiv.org/abs/2510.26583) [![GitHub](https://img.shields.io/github/stars/baaivision/Emu3.5)](https://github.com/baaivision/Emu3.5) |
 | `OmniNWM`  | OmniNWM: Omniscient Driving Navigation World Models |  [![arXiv](https://img.shields.io/badge/arXiv-2510.18313-b31b1b?logo=arxiv)](https://arxiv.org/abs/2510.18313) [![GitHub](https://img.shields.io/github/stars/Ma-Zhuang/OmniNWM)](https://github.com/Ma-Zhuang/OmniNWM) |
@@ -410,6 +422,8 @@ We provide an extensive review of the evaluation landscape, cataloging metrics a
 | Design  | Paper | Link | 
 |:-:|:-|:-:|
 ||
+| `DynamicVerse`  | DynamicVerse: A Physically-Aware Multimodal Framework for 4D World Modeling |  [![arXiv](https://img.shields.io/badge/arXiv-2512.03000-b31b1b?logo=arxiv)](https://arxiv.org/abs/2512.03000) [![GitHub](https://img.shields.io/github/stars/Dynamics-X/DynamicVerse)](https://github.com/Dynamics-X/DynamicVerse) [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://dynamic-verse.github.io/)|
+| `4DWorldBench`  | 4DWorldBench: A Comprehensive Evaluation Framework for 3D/4D World Generation Models |  [![arXiv](https://img.shields.io/badge/arXiv-2511.19836-b31b1b?logo=arxiv)](https://arxiv.org/abs/2511.19836) [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://yeppp27.github.io/4DWorldBench.github.io/)|
 | `Gen-ViRe`  | Can World Simulators Reason? Gen-ViRe: A Generative Visual Reasoning Benchmark |  [![arXiv](https://img.shields.io/badge/arXiv-2511.13853-b31b1b?logo=arxiv)](https://arxiv.org/abs/2511.13853) [![GitHub](https://img.shields.io/github/stars/L-CodingSpace/GVR)](https://github.com/L-CodingSpace/GVR) |
 | `World-in-World`  | World-in-World: World Models in a Closed-Loop World |  [![arXiv](https://img.shields.io/badge/arXiv-2510.18135-b31b1b?logo=arxiv)](https://arxiv.org/abs/2510.18135) [![GitHub](https://img.shields.io/github/stars/World-In-World/world-in-world)](https://github.com/World-In-World/world-in-world) |
 | `OmniWorld`  | OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling |  [![arXiv](https://img.shields.io/badge/arXiv-2509.12201-b31b1b?logo=arxiv)](https://arxiv.org/abs/2509.12201) [![GitHub](https://img.shields.io/github/stars/yangzhou24/OmniWorld)](https://github.com/yangzhou24/OmniWorld) |
@@ -474,6 +488,8 @@ We provide an extensive review of the evaluation landscape, cataloging metrics a
 | Design  | Paper | Link | 
 |:-:|:-|:-:|
 ||
+| `GigaWorld-0`  | GigaWorld-0: World Models as Data Engine to Empower Embodied AI |  [![arXiv](https://img.shields.io/badge/arXiv-2511.19861-b31b1b?logo=arxiv)](https://arxiv.org/abs/2511.19861) [![GitHub](https://img.shields.io/github/stars/open-gigaai/giga-world-0)](https://github.com/open-gigaai/giga-world-0) [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://giga-world-0.github.io/)|
+| `Target-Bench`  | Target-Bench: Can World Models Achieve Mapless Path Planning with Semantic Targets |  [![arXiv](https://img.shields.io/badge/arXiv-2511.17792-b31b1b?logo=arxiv)](https://arxiv.org/abs/2511.17792) [![GitHub](https://img.shields.io/github/stars/TUM-AVS/target-bench)](https://github.com/TUM-AVS/target-bench) [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://target-bench.github.io/)|
 | `WoW`  | WoW: Towards a world omniscient world model through embodied interaction |  [![arXiv](https://img.shields.io/badge/arXiv-2509.22642-b31b1b?logo=arxiv)](https://arxiv.org/abs/2509.22642) [![GitHub](https://img.shields.io/github/stars/wow-world-model/wow-world-model)](https://github.com/wow-world-model/wow-world-model) |
 | `Meta-World+`  | Meta-World+: An improved, standardized, rl benchmark |  [![arXiv](https://img.shields.io/badge/arXiv-2505.11289-b31b1b?logo=arxiv)](https://arxiv.org/abs/2505.11289) [![GitHub](https://img.shields.io/github/stars/Farama-Foundation/Metaworld)](https://github.com/Farama-Foundation/Metaworld) |
 | `AgiBot-World`  | AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems |  [![arXiv](https://img.shields.io/badge/arXiv-2503.06669-b31b1b?logo=arxiv)](https://arxiv.org/abs/2503.06669) [![GitHub](https://img.shields.io/github/stars/OpenDriveLab/AgiBot-World)](https://github.com/OpenDriveLab/AgiBot-World) |
@@ -502,6 +518,7 @@ We provide an extensive review of the evaluation landscape, cataloging metrics a
 | Design  | Paper | Link | 
 |:-:|:-|:-:|
 ||
+| `WorldLens`  | WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World |  [![arXiv](https://img.shields.io/badge/arXiv-2512.10958-b31b1b?logo=arxiv)](https://arxiv.org/abs/2512.10958) [![GitHub](https://img.shields.io/github/stars/worldbench/WorldLens)](https://github.com/worldbench/WorldLens) [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://worldbench.github.io/worldlens)|
 | `ACT-Bench`  | ACT-Bench: Towards Action Controllable World Models for Autonomous Driving |  [![arXiv](https://img.shields.io/badge/arXiv-2412.05337-b31b1b?logo=arxiv)](https://arxiv.org/abs/2412.05337) [![GitHub](https://img.shields.io/github/stars/turingmotors/ACT-Bench)](https://github.com/turingmotors/ACT-Bench) |
 | `DrivingDojo`  | DrivingDojo Dataset: Advancing Interactive and Knowledge-Enriched Driving World Model |  [![arXiv](https://img.shields.io/badge/arXiv-2410.10738-b31b1b?logo=arxiv)](https://arxiv.org/abs/2410.10738) [![GitHub](https://img.shields.io/github/stars/Robertwyq/Drivingdojo)](https://github.com/Robertwyq/Drivingdojo) |
 | `DriveArena`  | DriveArena: A Closed-loop Generative Simulation Platform for Autonomous Driving |  [![arXiv](https://img.shields.io/badge/arXiv-2408.00415-b31b1b?logo=arxiv)](https://arxiv.org/abs/2408.00415) [![GitHub](https://img.shields.io/github/stars/PJLab-ADG/DriveArena)](https://github.com/PJLab-ADG/DriveArena) |
@@ -561,12 +578,15 @@ We provide an extensive review of the evaluation landscape, cataloging metrics a
 | Paper | Link | 
 |:-|:-:|
 ||
+| Progressive Robustness-Aware World Models in Autonomous Driving: A Review and Outlook |  [![![TechrXiv](https://img.shields.io/badge/T-TechRxiv-blue)](https://www.techrxiv.org/users/1003906/articles/1364209-progressive-robustness-aware-world-models-in-autonomous-driving-a-review-and-outlook) |
+| Simulating the Visual World with Artificial Intelligence: A Roadmap |  [![arXiv](https://img.shields.io/badge/arXiv-2511.08585-b31b1b?logo=arxiv)](http://arxiv.org/abs/2511.08585) [![GitHub](https://img.shields.io/github/stars/ziqihuangg/Awesome-From-Video-Generation-to-World-Model)](https://github.com/ziqihuangg/Awesome-From-Video-Generation-to-World-Model) |
 | A Step Toward World Models: A Survey on Robotic Manipulation |  [![arXiv](https://img.shields.io/badge/arXiv-2511.02097-b31b1b?logo=arxiv)](http://arxiv.org/abs/2511.02097) |
 | The Safety Challenge of World Models for Embodied AI Agents: A Review |  [![arXiv](https://img.shields.io/badge/arXiv-2510.05865-b31b1b?logo=arxiv)](http://arxiv.org/abs/2510.05865) |
 | A Comprehensive Survey on World Models for Embodied AI |  [![arXiv](https://img.shields.io/badge/arXiv-2510.16732-b31b1b?logo=arxiv)](https://www.arxiv.org/abs/2510.16732) [![GitHub](https://img.shields.io/github/stars/Li-Zn-H/AwesomeWorldModels)](https://github.com/Li-Zn-H/AwesomeWorldModels) |
 | 3D and 4D World Modeling: A Survey |  [![arXiv](https://img.shields.io/badge/arXiv-2509.07996-b31b1b?logo=arxiv)](https://arxiv.org/abs/2509.07996) [![GitHub](https://img.shields.io/github/stars/worldbench/survey)](https://github.com/worldbench/survey) |
 | Large Model Empowered Embodied AI: A Survey on Decision-Making and Embodied Learning |  [![arXiv](https://img.shields.io/badge/arXiv-2508.10399-b31b1b?logo=arxiv)](https://arxiv.org/abs/2508.10399) |
 | A Survey: Learning Embodied Intelligence from Physical Simulators and World Models |  [![arXiv](https://img.shields.io/badge/arXiv-2507.00917-b31b1b?logo=arxiv)](http://arxiv.org/abs/2507.00917) [![GitHub](https://img.shields.io/github/stars/NJU3DV-LoongGroup/Embodied-World-Models-Survey)](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey) |
+| From 2D to 3D Cognition: A Brief Survey of General World Models |  [![arXiv](https://img.shields.io/badge/arXiv-2506.20134-b31b1b?logo=arxiv)](https://arxiv.org/abs/2506.20134) |
 | A Survey on World Models Grounded in Acoustic Physical Information |  [![arXiv](https://img.shields.io/badge/arXiv-2506.13833-b31b1b?logo=arxiv)](https://arxiv.org/abs/2506.13833) [![GitHub](https://img.shields.io/github/stars/soundai2016/survey_acoustic_world_models)](https://github.com/soundai2016/survey_acoustic_world_models) |
 | World Models in Artificial Intelligence: Sensing, Learning, and Reasoning Like a Child |  [![arXiv](https://img.shields.io/badge/arXiv-2503.15168-b31b1b?logo=arxiv)](https://arxiv.org/abs/2503.15168) |
 | The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey |  [![arXiv](https://img.shields.io/badge/arXiv-2502.10498-b31b1b?logo=arxiv)](https://arxiv.org/abs/2502.10498) [![GitHub](https://img.shields.io/github/stars/LMD0311/Awesome-World-Model)](https://github.com/LMD0311/Awesome-World-Model) |
@@ -584,6 +604,7 @@ This part overlaps somewhat with the `Survey` section.
 | Repo | Link |
 |:-|:-:|
 ||
+| Awesome From Video Generation to World Model | [![GitHub](https://img.shields.io/github/stars/ziqihuangg/Awesome-From-Video-Generation-to-World-Model)](https://github.com/ziqihuangg/Awesome-From-Video-Generation-to-World-Model) |
 | A Curated List of Amazing Works in World Modeling, spanning applications in Embodied AI, Autonomous Driving, Natural Laguage Processing and Agents | [![GitHub](https://img.shields.io/github/stars/knightnemo/Awesome-World-Models)](https://github.com/knightnemo/Awesome-World-Models) |
 | A curated list of papers for World Models for General Video Generation, Embodied AI, and Autonomous Driving | [![GitHub](https://img.shields.io/github/stars/leofan90/Awesome-World-Models)](https://github.com/leofan90/Awesome-World-Models) |
 | World Models for Autonomous Driving (and Robotic) papers | [![GitHub](https://img.shields.io/github/stars/LMD0311/Awesome-World-Model)](https://github.com/LMD0311/Awesome-World-Model) |
@@ -604,6 +625,8 @@ This part overlaps somewhat with the `Survey` section.
 | Venue  | Workshop | Link | 
 |:-:|:-|:-:|
 ||
+| `ICLR 2026` | Workshop on World Models: Understanding, Modelling and Scaling |  [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://sites.google.com/view/iclr-2026-workshop-world-model/home)|
+| `NeurIPS 2025` | Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning |  [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://sites.google.com/view/law-2025)|
 | `NeurIPS 2025` | Embodied World Models for Decision Making |  [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://embodied-world-models.github.io/)|
 | `ICCV 2025` | Reliable and Interactable World Models: Geometry, Physics, Interactivity and Real-World Generalization |  [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://riwm-2025.github.io/RIWM-2025/)|
 | `ICML 2025` | Building Physically Plausible World Models |  [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://physical-world-modeling.github.io/)|
@@ -621,11 +644,19 @@ This part overlaps somewhat with the `Survey` section.
 | Design  | Paper | Link | 
 |:-:|:-|:-:|
 ||
+| `-` | What Drives Success in Physical Planning with Joint-Embedding Predictive World Models? |  [![arXiv](https://img.shields.io/badge/arXiv-2512.24497-b31b1b?logo=arxiv)](https://arxiv.org/abs/2512.24497) |
+| `-` | Closing the Train-Test Gap in World Models for Gradient-Based Planning |  [![arXiv](https://img.shields.io/badge/arXiv-2512.09929-b31b1b?logo=arxiv)](https://arxiv.org/abs/2512.09929) [![GitHub](https://img.shields.io/github/stars/qw3rtman/robust-world-model-planning)](https://github.com/qw3rtman/robust-world-model-planning)|
+| `WWM` | Web World Model |  [![arXiv](https://img.shields.io/badge/arXiv-2512.23676-b31b1b?logo=arxiv)](https://arxiv.org/abs/2512.23676) [![GitHub](https://img.shields.io/github/stars/Princeton-AI2-Lab/Web-World-Models)](https://github.com/Princeton-AI2-Lab/Web-World-Models) [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://princeton-ai2-lab.github.io/Web-World-Models/)|
+| `DWM` | Dexterous World Models |  [![arXiv](https://img.shields.io/badge/arXiv-2512.17907-b31b1b?logo=arxiv)](https://arxiv.org/abs/2512.17907) [![GitHub](https://img.shields.io/github/stars/snuvclab/dwm)](https://github.com/snuvclab/dwm) [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://snuvclab.github.io/dwm/)|
+| `PRISM-WM` | Prismatic World Model: Learning Compositional Dynamics for Planning in Hybrid Systems |  [![arXiv](https://img.shields.io/badge/arXiv-2512.08411-b31b1b?logo=arxiv)](https://arxiv.org/abs/2512.08411) |
+| `-` | From Word to World: Can Large Language Models be Implicit Text-based World Models? |  [![arXiv](https://img.shields.io/badge/arXiv-2512.18832-b31b1b?logo=arxiv)](https://arxiv.org/abs/2512.18832) [![GitHub](https://img.shields.io/github/stars/X1AOX1A/Word2World)](https://github.com/X1AOX1A/Word2World)|
 | `-` | Beyond World Models: Rethinking Understanding in AI Models |  [![arXiv](https://img.shields.io/badge/arXiv-2511.12239-b31b1b?logo=arxiv)](https://arxiv.org/abs/2511.12239) |
 | `Cambrian-S` | Cambrian-S: Towards Spatial Supersensing in Video |  [![arXiv](https://img.shields.io/badge/arXiv-2511.04670-b31b1b?logo=arxiv)](https://arxiv.org/abs/2511.04670)  [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://cambrian-mllm.github.io/)|
+| `-` | World Models Should Prioritize the Unification of Physical and Social Dynamics |  [![arXiv](https://img.shields.io/badge/arXiv-2510.21219-b31b1b?logo=arxiv)](https://arxiv.org/abs/2510.21219) |
 | `GRWM` | Clone Deterministic 3D Worlds with Geometrically-Regularized World Models |  [![arXiv](https://img.shields.io/badge/arXiv-2510.26782-b31b1b?logo=arxiv)](https://arxiv.org/abs/2510.26782)  [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://github.com/M-E-AGI-Lab/Awesome-World-Models)|
 | `-` | From Masks to Worlds: A Hitchhiker’s Guide to World Models |  [![arXiv](https://img.shields.io/badge/arXiv-2510.20668-b31b1b?logo=arxiv)](https://arxiv.org/abs/2510.20668) |
 | `AutumnBench` | Benchmarking World-Model Learning |  [![arXiv](https://img.shields.io/badge/arXiv-2510.19788-b31b1b?logo=arxiv)](https://arxiv.org/abs/2510.19788)|
+| `S3AP` | Social World Models |  [![arXiv](https://img.shields.io/badge/arXiv-2509.00559-b31b1b?logo=arxiv)](https://arxiv.org/abs/2509.00559) |
 | `UniVid` | UniVid: Unifying Vision Tasks with Pre-trained Video Generation Models |  [![arXiv](https://img.shields.io/badge/arXiv-2509.21760-b31b1b?logo=arxiv)](https://arxiv.org/abs/2509.21760) [![GitHub](https://img.shields.io/github/stars/CUC-MIPG/UniVid)](https://github.com/CUC-MIPG/UniVid) |
 | `Veo 3`| Video models are zero-shot learners and reasoners | [![arXiv](https://img.shields.io/badge/arXiv-2509.20328-b31b1b?logo=arxiv)](https://arxiv.org/abs/2509.20328)  [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://video-zero-shot.github.io/) |
 | `PSI`| World Modeling with Probabilistic Structure Integration |  [![arXiv](https://img.shields.io/badge/arXiv-2509.09737-b31b1b?logo=arxiv)](https://arxiv.org/abs/2509.09737) |
@@ -646,6 +677,9 @@ This part overlaps somewhat with the `Survey` section.
 | Design  | Paper | Link | 
 |:-:|:-|:-:|
 ||
+| `Act2Goal`| Act2Goal: From World Model To General Goal-conditioned Policy | [![arXiv](https://img.shields.io/badge/arXiv-2512.23541-b31b1b?logo=arxiv)](https://arxiv.org/abs/2512.23541) [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://act2goal.github.io/) |
+| `DexWM`| World Models Can Leverage Human Videos for Dexterous Manipulation | [![arXiv](https://img.shields.io/badge/arXiv-2512.13644-b31b1b?logo=arxiv)](https://arxiv.org/abs/2512.13644) [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://raktimgg.github.io/dexwm/)|
+| `WorldLM`| Can World Models Benefit VLMs for World Dynamics? | [![arXiv](https://img.shields.io/badge/arXiv-2510.00855-b31b1b?logo=arxiv)](https://arxiv.org/abs/2510.00855) [![GitHub](https://img.shields.io/github/stars/zyzkevin/dyva-worldlm)](https://github.com/zyzkevin/dyva-worldlm) [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://dyva-worldlm.github.io/)|
 | `WMPO`| WMPO: World Model-based Policy Optimization for Vision-Language-Action Models | [![arXiv](https://img.shields.io/badge/arXiv-2511.09515-b31b1b?logo=arxiv)](https://arxiv.org/abs/2511.09515) [![GitHub](https://img.shields.io/github/stars/WM-PO/WMPO)](https://github.com/WM-PO/WMPO) |
 | `PhysWorld`| Robot Learning from a Physical World Model | [![arXiv](https://img.shields.io/badge/arXiv-2511.07416-b31b1b?logo=arxiv)](https://arxiv.org/abs/2511.07416)  |
 | `-`| Scalable Policy Evaluation with Video World Models | [![arXiv](https://img.shields.io/badge/arXiv-2511.11520-b31b1b?logo=arxiv)](https://arxiv.org/abs/2511.11520) |
@@ -682,6 +716,8 @@ This part overlaps somewhat with the `Survey` section.
 | Design  | Paper | Link | 
 |:-:|:-|:-:|
 ||
+|`Motus`|Motus: A Unified Latent Action World Model|[![arXiv](https://img.shields.io/badge/arXiv-2512.13030-b31b1b?logo=arxiv)](https://arxiv.org/abs/2512.13030) [![GitHub](https://img.shields.io/github/stars/thu-ml/Motus)](https://github.com/thu-ml/Motus) [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://motus-robotics.github.io/motus)|
+|`Visionary`|Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform|[![arXiv](https://img.shields.io/badge/arXiv-2512.08478-b31b1b?logo=arxiv)](https://arxiv.org/abs/2512.08478) [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://visionary-laboratory.github.io/visionary/)|
 |`R-WoM`|R-WoM: Retrieval-augmented World Model For Computer-use Agents|[![arXiv](https://img.shields.io/badge/arXiv-2510.11892-b31b1b?logo=arxiv)](https://arxiv.org/abs/2510.11892)|
 |`-`|Context and Diversity Matter: The Emergence of In-Context Learning in World Models|[![arXiv](https://img.shields.io/badge/arXiv-2509.22353-b31b1b?logo=arxiv)](https://arxiv.org/abs/2509.22353) [![GitHub](https://img.shields.io/github/stars/airs-cuhk/airsoul)](https://github.com/airs-cuhk/airsoul)|
 |`UnifoLM-WMA-0`|UnifoLM-WMA-0: A World-Model-Action (WMA) Framework under UnifoLM Family|[![GitHub](https://img.shields.io/github/stars/unitreerobotics/unifolm-world-model-action)](https://github.com/unitreerobotics/unifolm-world-model-action)  [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://unigen-x.github.io/unifolm-world-model-action.github.io/)|
