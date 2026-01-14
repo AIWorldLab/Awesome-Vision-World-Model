@@ -54,16 +54,23 @@ WIP
 
 # 0. Background
 
-## About Vision World Model
+## About Vision World Model (VWM)
 Definition:
 
->A vision world model (VWM) is a system that understands and simulates the laws of the physical world through visual observation and conditioned interaction.
+>A vision world model is an AI model that learns to simulate the physical world through visual observation.
 
-we establish a conceptual framework that decomposes VWM into three essential components.
+Formally, a VWM can be seen as a probabilistic model $ f_{\theta} $ that predicts the distribution of future states given observed visual context and interactive conditions:
 
-* (1) The Perceptual Foundation: How visual streams (RGB, depth, point clouds, etc.) are encoded into structured representations.
+$$ p(\mathcal{R}_{t+1:T}| v_{0:t}, c_{t}) = f_{\theta} (\mathcal{E}(v_{0:t}), c_{t}) $$
 
-* (2) The Cognitive Core: What "rules of the world" are learned, progressing from spatio-temporal coherence to physical dynamics and causal reasoning.
+where $ v_{0:t} $ represents the sequence of visual observations from time $ 0 $ to $ t $, and $ c_{t} $ represents current conditions (e.g., agent actions, language instructions, or control signals). $ \mathcal{E}( \cdot ) $ denotes the visual encoder that maps raw inputs into tokens or embeddings.
+$ \mathcal{R}_{t+1:T} $ represents the world representation, which encompasses a broad range of future modalities depending on the paradigm, including future observations ($ v_{t+1:T} $), latent states ($ s_{t+1:T} $), or other future properties (e.g., segmentation maps, depth, flow, 3D Gaussian splats, or trajectories). 
+
+We further establish a conceptual framework that decomposes VWM into three essential components:
+
+* (1) The Perceptual Foundation: How diverse visual signals are transformed into world representation.
+
+* (2) The Dynamics Core: What "rules of the world" are learned, progressing from spatio-temporal coherence to physical dynamics and causal reasoning.
 
 * (3) The Key Capability: How VWM performs controllable simulation conditioned on actions, language, or other interaction prompts.
 
