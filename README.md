@@ -59,12 +59,12 @@ Definition:
 
 >A vision world model is an AI model that learns to simulate the physical world through visual observation.
 
-Formally, a VWM can be seen as a probabilistic model $ f_{\theta} $ that predicts the distribution of future states given observed visual context and interactive conditions:
+Formally, a VWM can be seen as a probabilistic model $f_{\theta}$ that predicts the distribution of future states given observed visual context and interactive conditions:
 
-$$ p(\mathcal{R}_{t+1:T}| v_{0:t}, c_{t}) = f_{\theta} (\mathcal{E}(v_{0:t}), c_{t}) $$
+$$p(\mathcal{R}_{t+1:T}| v_{0:t}, c_{t}) = f_{\theta} (\mathcal{E}(v_{0:t}), c_{t})$$
 
-where $ v_{0:t} $ represents the sequence of visual observations from time $ 0 $ to $ t $, and $ c_{t} $ represents current conditions (e.g., agent actions, language instructions, or control signals). $ \mathcal{E}( \cdot ) $ denotes the visual encoder that maps raw inputs into tokens or embeddings.
-$ \mathcal{R}_{t+1:T} $ represents the world representation, which encompasses a broad range of future modalities depending on the paradigm, including future observations ($ v_{t+1:T} $), latent states ($ s_{t+1:T} $), or other future properties (e.g., segmentation maps, depth, flow, 3D Gaussian splats, or trajectories). 
+where $v_{0:t}$ represents the sequence of visual observations from time $0$ to $t$, and $c_{t}$ represents current conditions (e.g., agent actions, language instructions, or control signals). $\mathcal{E}(\cdot)$ denotes the visual encoder that maps raw inputs into tokens or embeddings.
+$\mathcal{R}_{t+1:T}$ represents the world representation, which encompasses a broad range of future modalities depending on the paradigm, including future observations ($v_{t+1:T}$), latent states ($s_{t+1:T}$), or other future properties (e.g., segmentation maps, depth, flow, 3D Gaussian splats, or trajectories). 
 
 We further establish a conceptual framework that decomposes VWM into three essential components:
 
