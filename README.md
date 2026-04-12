@@ -10,7 +10,7 @@
 
 This repository provides a curated list of works on Vision World Models, along with their corresponding **arXiv IDs, GitHub repositories**, and **Project pages**.
 
-For more details, kindly refer to our [paper](./preprint-v2026.4.10.pdf) :rocket:
+For more details, kindly refer to our [paper](./preprint-v2026.4.12.pdf) :rocket:
 
 
 ### :books: Citation 
