@@ -1,6 +1,8 @@
-[![Awesome Logo](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![TechrXiv](https://img.shields.io/badge/T-TechRxiv-blue)](https://www.techrxiv.org) [![Visitors](https://komarev.com/ghpvc/?username=VWMSurvey&label=Welcome!%20&color=orange)]()
+[![Awesome Logo](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+[![Visitors](https://komarev.com/ghpvc/?username=VWMSurvey&label=Welcome!%20&color=orange)]()
 
-[![arXiv](https://img.shields.io/badge/arXiv-26XX.XXXXX-b31b1b?logo=arxiv)](https://arxiv.org/abs/25XX.XXXXX) [![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-yellow)](https://huggingface.co/papers/)
+<!-- [![TechrXiv](https://img.shields.io/badge/T-TechRxiv-blue)](https://www.techrxiv.org) 
+[![arXiv](https://img.shields.io/badge/arXiv-26XX.XXXXX-b31b1b?logo=arxiv)](https://arxiv.org/abs/25XX.XXXXX) [![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-yellow)](https://huggingface.co/papers/) -->
 
 # :sunglasses: Awesome Vision World Models
 
@@ -10,12 +12,12 @@
 
 This repository provides a curated list of works on Vision World Models, along with their corresponding **arXiv IDs, GitHub repositories**, and **Project pages**.
 
-For more details, kindly refer to our [paper](https://aiworldlab.github.io/survey/preprint.pdf) :rocket:
+<!-- For more details, kindly refer to our [paper]() :rocket: -->
 
 
 ### :books: Citation 
 
-If you find this work helpful for your research, please kindly consider citing our paper:
+<!-- If you find this work helpful for your research, please kindly consider citing our paper:
 ```bib
 @XXX{XXX,
   author    = {},
@@ -23,7 +25,7 @@ If you find this work helpful for your research, please kindly consider citing o
   journal   = {},
   year      = {},
 }
-```
+``` -->
 
 ### Table of Contents
 - [0. Background](#0-background)
