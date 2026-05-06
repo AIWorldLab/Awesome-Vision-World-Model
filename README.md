@@ -1,5 +1,6 @@
 [![Awesome Logo](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 [![Visitors](https://komarev.com/ghpvc/?username=VWMSurvey&label=Welcome!%20&color=orange)]()
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/AIWorldLab/Awesome-Vision-World-Model/pulls)
 
 <!-- [![TechrXiv](https://img.shields.io/badge/T-TechRxiv-blue)](https://www.techrxiv.org) 
 [![arXiv](https://img.shields.io/badge/arXiv-26XX.XXXXX-b31b1b?logo=arxiv)](https://arxiv.org/abs/25XX.XXXXX) [![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-yellow)](https://huggingface.co/papers/) -->
@@ -12,20 +13,20 @@
 
 This repository provides a curated list of works on Vision World Models, along with their corresponding **arXiv IDs, GitHub repositories**, and **Project pages**.
 
-<!-- For more details, kindly refer to our [paper]() :rocket: -->
+For more details, kindly refer to our [paper](https://aiworldlab.github.io/survey/preprint.pdf) :rocket:
 
 
 ### :books: Citation 
 
-<!-- If you find this work helpful for your research, please kindly consider citing our paper:
+If you find this work helpful for your research, please kindly consider citing our paper:
 ```bib
-@XXX{XXX,
-  author    = {},
-  title     = {From Seeing to Knowing the World: A Survey of Vision World Models},
-  journal   = {},
-  year      = {},
+@article{yu2026seeing,
+  title={From Seeing to Knowing the World: A Survey of Vision World Models},
+  author={Yu, Xiao and Zhang, Yichen and Wang, Mingzhang and Zhao, Shifang and Liu, Weizhe and Yin, Yuyang and Ren, Zhongwei and An, Ning and Wu, Xinglong and Liu, Hao and others},
+  year={2026},
+  publisher={Preprints}
 }
-``` -->
+```
 
 ### Table of Contents
 - [0. Background](#0-background)
