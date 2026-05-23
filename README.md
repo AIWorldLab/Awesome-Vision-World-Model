@@ -38,8 +38,7 @@ For more details, kindly refer to our [paper](https://aiworldlab.github.io/surve
 
 
 ### Table of Contents
-- [New Papers](#new-papers)
-- [1. Designs](#1-designs)
+- [1. Vision World Model Designs](#1-designs)
   - [1.1. Sequential Generation](#11-sequential-generation)
     - [Visual Autoregressive Modeling](#visual-autoregressive-modeling)
     - [MLLM-guided Multimodal Autoregressive Model](#mllm-guided-multimodal-autoregressive-model)
@@ -70,13 +69,6 @@ For more details, kindly refer to our [paper](https://aiworldlab.github.io/surve
 - [4. Acknowledgements](#4-acknowledgements)
 - [Citations](#books-citation)
 
-
-# New Papers
-
-|      Design       | Paper                                                                                                      |                                                                                                                                                                                Link                                                                                                                                                                                 |
-| :---------------: | :--------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  `VideoWorld 2`   | VideoWorld 2: Learning Transferable Knowledge from Real-world Videos                                       | [![arXiv](https://img.shields.io/badge/arXiv-2602.10102-b31b1b?logo=arxiv)](https://arxiv.org/abs/2602.10102) [![GitHub](https://img.shields.io/github/stars/ByteDance-Seed/VideoWorld)](https://github.com/ByteDance-Seed/VideoWorld) [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://maverickren.github.io/VideoWorld2.github.io/) |
-|    `WorldMark`    | WorldMark: A Unified Benchmark Suite for Interactive Video World Models                                    |                                               [![arXiv](https://img.shields.io/badge/arXiv-2604.21686-b31b1b?logo=arxiv)](https://arxiv.org/abs/2604.21686) [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://alaya-studio.github.io/WorldMark/)                                               |
 
 
 # 1. Designs
@@ -593,6 +585,7 @@ For more details, kindly refer to our [paper](https://aiworldlab.github.io/surve
 | Design  | Paper | Link | 
 |:-:|:-|:-:|
 ||
+|    `WorldMark`    | WorldMark: A Unified Benchmark Suite for Interactive Video World Models                                    |                                               [![arXiv](https://img.shields.io/badge/arXiv-2604.21686-b31b1b?logo=arxiv)](https://arxiv.org/abs/2604.21686) [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://alaya-studio.github.io/WorldMark/)                                               |
 | `WildWorld` | WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG |  [![arXiv](https://img.shields.io/badge/arXiv-2603.23497-b31b1b?logo=arxiv)](https://arxiv.org/abs/2603.23497) [![GitHub](https://img.shields.io/github/stars/ShandaAI/WildWorld)](https://github.com/ShandaAI/WildWorld) |
 | `Matrix-Game-MC`  | Matrix-Game: Interactive World Foundation Model |  [![arXiv](https://img.shields.io/badge/arXiv-2506.18701-b31b1b?logo=arxiv)](https://arxiv.org/abs/2506.18701) [![GitHub](https://img.shields.io/github/stars/SkyworkAI/Matrix-Game)](https://github.com/SkyworkAI/Matrix-Game) |
 | `LOOPNAV`  | Toward Memory-Aided World Models: Benchmarking via Spatial Consistency |  [![arXiv](https://img.shields.io/badge/arXiv-2505.22976-b31b1b?logo=arxiv)](https://arxiv.org/abs/2505.22976) [![GitHub](https://img.shields.io/github/stars/Kevin-lkw/LoopNav)](https://github.com/Kevin-lkw/LoopNav) |
@@ -619,6 +612,7 @@ For more details, kindly refer to our [paper](https://aiworldlab.github.io/surve
 | Paper | Link | 
 |:-|:-:|
 ||
+| World Model for Robot Learning: A Comprehensive Survey |  [![arXiv](https://img.shields.io/badge/arXiv-2605.00080-b31b1b?logo=arxiv)](https://arxiv.org/html/2605.00080v1) [![GitHub](https://img.shields.io/github/stars/NTUMARS/Awesome-World-Model-for-Robotics-Policy)](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy) |
 | OpenWorldLib: A Unified Codebase and Definition of Advanced World Models |  [![arXiv](https://img.shields.io/badge/arXiv-2604.04707-b31b1b?logo=arxiv)](https://arxiv.org/abs/2604.04707) [![GitHub](https://img.shields.io/github/stars/OpenDCAI/OpenWorldLib)](https://github.com/OpenDCAI/OpenWorldLib) |
 | Video Generation Models as World Models: Efficient Paradigms, Architectures and Algorithms |  [![arXiv](https://img.shields.io/badge/arXiv-2603.28489-b31b1b?logo=arxiv)](https://arxiv.org/abs/2603.28489v1) |
 | Learning to Model the World: A Survey of World Models in Artificial Intelligence | [![TechrXiv](https://img.shields.io/badge/T-TechRxiv-blue)](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177274570.09578608/v1) [![GitHub](https://img.shields.io/github/stars/JiahuaDong/Awesome-World-Models)](https://github.com/JiahuaDong/Awesome-World-Models) |
@@ -651,6 +645,9 @@ This part overlaps somewhat with the `Survey` section.
 | Repo | Link |
 |:-|:-:|
 ||
+| WMFactory 0.5: One environment · One procedure · Eleven interactive world models| [![GitHub](https://img.shields.io/github/stars/Rising0321/WMFactory)](https://github.com/Rising0321/WMFactory) |
+| A minimalist repository for training video world models based on diffusion-forcing | [![GitHub](https://img.shields.io/github/stars/simchowitzlabpublic/nano-world-model)](https://github.com/simchowitzlabpublic/nano-world-model) |
+| Awesome Video World Models with AR Diffusion | [![GitHub](https://img.shields.io/github/stars/gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion)](https://github.com/gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion) |
 | Awesome From Video Generation to World Model | [![GitHub](https://img.shields.io/github/stars/ziqihuangg/Awesome-From-Video-Generation-to-World-Model)](https://github.com/ziqihuangg/Awesome-From-Video-Generation-to-World-Model) |
 | A Curated List of Amazing Works in World Modeling, spanning applications in Embodied AI, Autonomous Driving, Natural Laguage Processing and Agents | [![GitHub](https://img.shields.io/github/stars/knightnemo/Awesome-World-Models)](https://github.com/knightnemo/Awesome-World-Models) |
 | A curated list of papers for World Models for General Video Generation, Embodied AI, and Autonomous Driving | [![GitHub](https://img.shields.io/github/stars/leofan90/Awesome-World-Models)](https://github.com/leofan90/Awesome-World-Models) |
@@ -672,6 +669,10 @@ This part overlaps somewhat with the `Survey` section.
 | Venue  | Workshop | Link | 
 |:-:|:-|:-:|
 ||
+| `ECCV 2026` | How to Build Effective World Models for Embodied AI |  [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://eccv26wmeai.github.io/)|
+| `CVPR 2026` | GigaBrain Challenge 2026: World Models & VLA for Embodied Intelligence |  [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://gigaai-research.github.io/GigaBrain-Challenge-2026/)|
+| `CVPR 2026` | Video World Models |  [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://videoworldmodel-workshop.github.io/)|
+| `CVPR 2026` | World Models Meet Active Sensing and Closed-Loop Planning |  [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://cvpr26wmas.github.io/cvpr26wmas.html)|
 | `ICLR 2026` | Workshop on World Models: Understanding, Modelling and Scaling |  [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://sites.google.com/view/iclr-2026-workshop-world-model/home)|
 | `NeurIPS 2025` | Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning |  [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://sites.google.com/view/law-2025)|
 | `NeurIPS 2025` | Embodied World Models for Decision Making |  [![Website](https://img.shields.io/badge/Link-yellow?logo=gitbook)](https://embodied-world-models.github.io/)|
